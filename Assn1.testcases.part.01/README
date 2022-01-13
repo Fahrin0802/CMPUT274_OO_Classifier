@@ -1,0 +1,22 @@
+# -----------------------------------------------------
+#    Name: Fahrin Bushra
+#    ID: 1669159
+#    CCID: bushra1
+#    CMPUT 274, Fall 2021
+#
+#    Assignment 1
+# -----------------------------------------------------
+
+# Files submitted:
+#     README
+#     ooclassifier.py
+
+# Consultation Information
+# @JediSpencer21#4033 on Computer Engineering Discord Server of uAlberta
+#     Helped me write a dictionary printing function
+#     Function helped me visualise dictionaries and debug my code
+
+# Code Information
+# This program uses a object oriented programming model to classify sentences based on certain labels
+
+
